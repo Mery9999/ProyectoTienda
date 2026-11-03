@@ -1,0 +1,20 @@
+# NetBeans
+/nbproject/private/
+
+# Archivos compilados
+/build/
+/dist/
+
+# Archivos temporales
+*.class
+*.log
+
+# Configuraciones locales
+*.properties.local
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
